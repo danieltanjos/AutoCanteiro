@@ -1,6 +1,6 @@
 # **Automated Construction Site Layout Generator (UFSC)**  
 
-This project was developed for the *Computational Tools for Civil Engineering* course at the **Federal University of Santa Catarina (UFSC), Brazil**.  
+This project was developed in collaboration with João Vitor Pedro (https://github.com/jvfpedro) for the *Computational Tools for Civil Engineering* course at the **Federal University of Santa Catarina (UFSC), Brazil**.  
 
 The goal is to automate the generation of construction site layouts, ensuring compliance with **NR18 safety regulations** and optimizing the spatial arrangement of essential site elements such as storage, restrooms, and dining areas.  
 
