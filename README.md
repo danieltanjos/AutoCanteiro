@@ -46,7 +46,7 @@ The final layout is exported as a **DXF file**, which can be opened and edited i
 ## **How to Run the Project**  
 
 ### **1. Install Dependencies**  
-Make sure you have **Python 3.x** installed, then run:  
+Make sure you have **Python 3.12.4** installed, then run:  
 ```bash
 pip install ezdxf customtkinter
 ```
